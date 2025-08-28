@@ -1,0 +1,19 @@
+- La llama vieja: El hostal de Cadencia
+- **El Almacén 7**: bodega abandonada convertida en “incubadora musical”. Jóvenes artificers alquilan mesas para proyectos locos; algunos terminan en gloria, otros explotan.
+- _Lab Beat_: prototipos de loop/latidos de cristal.
+- _Pasaje del Eco_: calle de “sound designers”.  
+- **La Forja Sonora**: un taller colectivo donde se diseñan instrumentos híbridos. Aquí nacen guitarras con cuerdas de relámpago o tambores que canalizan fuego elemental.
+- **La Torre de Compresión**: viejo silo reconvertido en estación de prueba. Sirve para calibrar acústica, amplificación y resonancia a nivel de ciudad.
+- **Forja Forjín**: Herrería que fabrica baterías rúnicas.
+- **Nave Ensayo**: Galpón con acústica brutal.  
+- _Café Polifonía_: escenario pequeño, audiencia exigente.
+- _Pasaje Mezcla_: tenderetes de luthiers híbridos (instrumentos raros).  
+- _Patio de las Cuerdas_: peñas de cuerdas y voz.
+- _Panadería “Tres Cuartos”_: desayunos a cambio de chismes.  
+- _Oratorio Albor_: micrófonos “de verdad”, cero playback.
+- _Galería Aria_: curaduría de imagen (styling mágico).  
+- _Club Penumbra_: jam secreto con cláusulas mágicas.
+- _Sastrería Umbral_: trajes que cambian con el tempo.  
+- La Cripta del Eco
+- _Fogón de Escena_: anfiteatro con piroglifos.
+- _Taller Ignis_: pirotecnia rúnica certificada.  
